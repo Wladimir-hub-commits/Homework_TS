@@ -1,0 +1,23 @@
+{
+  "name": "homework_ts",
+  "version": "1.0.0",
+  "description": "- isInSpace — булево значение (находится ли в космосе)\r - experienceYears — число (сколько лет опыта)\r - assistantRobot — объект типа Robot\r - missions — массив строк, например: [\"Moon Landing\", \"ISS Maintenance\"]\r - Тип Robot должен быть объектом с ключом model (например, { model: \"XR-12\" }).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wladimir-hub-commits/Homework_TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wladimir-hub-commits/Homework_TS/issues"
+  },
+  "homepage": "https://github.com/Wladimir-hub-commits/Homework_TS#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
